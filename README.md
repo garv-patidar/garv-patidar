@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
   - Developing IoT-based solutions like TPMS systems for mining trucks
   - Crafting efficient algorithms for problems like bin-packing through AVL trees and hash- 
     based data structures
-    Developing a differential drive system using Sabertooth motor drivers and Kangar 
+  - Developing a differential drive system using Sabertooth motor drivers and Kangar 
     controllers for ABU Robocon 2025 
 - 🌱 I’m currently learning
   - Advanced communication protocols like LoRaWAN for IoT applications
