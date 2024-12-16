@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
   - Algorithm-driven solutions that require innovative approaches to data handling and optimization
 - 💬 Ask me about
   - GPS tracking systems, IoT sensors, and real-time data integration.
-  - Algorithms and data structures, from AVL trees to scheduling and bin-packing problems.
+  - Algorithms and data structures
 - 📫 How to reach me:
   Feel free to connect via GitHub 
 
